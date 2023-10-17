@@ -1,0 +1,101 @@
+
+1. Robert Lewandowski
+   ('Barcelona', '23', '17')
+2. Karim Benzema
+   ('Real Madrid', '17', '14')
+3. Enes Ünal
+   ('Getafe', '27', '13')
+4. Iago Aspas
+   ('Celta Vigo', '27', '12')
+5. Borja Iglesias
+   ('Real Betis', '25', '12')
+6. Joselu
+   ('Espanyol', '24', '12')
+7. Álvaro Morata
+   ('Atletico Madrid', '27', '10')
+8. Vedat Muriqi
+   ('Mallorca', '24', '10')
+9. Antoine Griezmann
+   ('Atletico Madrid', '27', '9')
+10. Gabriel Veiga
+   ('Celta Vigo', '26', '9')
+11. Alexander Sørloth
+   ('Real Sociedad', '23', '9')
+12. Martin Braithwaite
+   ('Espanyol', '22', '9')
+13. Vinícius Júnior
+   ('Real Madrid', '26', '8')
+14. Oihan Sancet
+   ('Athletic Club', '26', '8')
+15. Federico Valverde
+   ('Real Madrid', '26', '7')
+16. Brais Méndez
+   ('Real Sociedad', '26', '7')
+17. Ezequiel Ávila
+   ('Osasuna', '23', '7')
+18. Cristhian Stuani
+   ('Girona', '22', '7')
+19. Borja Mayoral
+   ('Getafe', '27', '6')
+20. Isi Palazón
+   ('Rayo Vallecano', '26', '6')
+21. Valentín Castellanos
+   ('Girona', '26', '6')
+22. José Luis Morales
+   ('Villarreal', '26', '6')
+23. Raphinha
+   ('Barcelona', '25', '6')
+24. Ángel Correa
+   ('Atletico Madrid', '25', '6')
+25. Youssef En-Nesyri
+   ('Sevilla', '23', '6')
+26. Pedri
+   ('Barcelona', '21', '6')
+27. Marco Asensio
+   ('Real Madrid', '21', '6')
+28. Pere Milla
+   ('Elche', '20', '6')
+29. Gorka Guruzeta
+   ('Athletic Club', '20', '6')
+30. El Bilal Toure
+   ('Almería', '19', '6')
+31. Gerard Moreno
+   ('Villarreal', '16', '6')
+32. Sergio Camello
+   ('Rayo Vallecano', '27', '5')
+33. Iñaki Williams
+   ('Athletic Club', '25', '5')
+34. Takefusa Kubo
+   ('Real Sociedad', '24', '5')
+35. Rodrygo
+   ('Real Madrid', '24', '5')
+36. Sergio León
+   ('Real Valladolid', '24', '5')
+37. Justin Kluivert
+   ('Valencia', '20', '5')
+38. Ousmane Dembélé
+   ('Barcelona', '18', '5')
+39. Edinson Cavani
+   ('Valencia', '16', '5')
+40. Cyle Larin
+   ('Real Valladolid', '8', '5')
+41. Sergi Darder
+   ('Espanyol', '27', '4')
+42. Nico Williams
+   ('Athletic Club', '26', '4')
+43. Rodrigo Riquelme
+   ('Girona', '26', '4')
+44. Samu Chukwueze
+   ('Villarreal', '26', '4')
+45. Florian Lejeune
+   ('Rayo Vallecano', '25', '4')
+46. Álvaro García
+   ('Rayo Vallecano', '25', '4')
+47. Ansu Fati
+   ('Barcelona', '25', '4')
+48. Luka Modric
+   ('Real Madrid', '24', '4')
+49. Álex Baena
+   ('Villarreal', '24', '4')
+50. Éder Militão
+   ('Real Madrid', '23', '4')
