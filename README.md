@@ -1,1 +1,1 @@
-# Independent-Projects - a variety of independent projects 
+# Independent-Projects - a variety of small independent projects 
